@@ -1,7 +1,7 @@
 {
   "name": "video-stream-sample",
   "version": "1.0.0",
-  "description": "Streaming video example",
+  "description": "Streaming Video App",
   "main": "server.js",
   "engines": {
     "node": ">=6.2.0"
